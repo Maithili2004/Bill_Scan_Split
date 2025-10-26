@@ -2,6 +2,8 @@
 
 A full-stack web application built with Next.js that uses OCR to scan paper bills, extracts line items automatically, and helps split bills fairly among multiple people.
 
+🌐 **Live Demo**: [https://bill-scan-split.vercel.app](https://bill-scan-split.vercel.app)
+
 ## 🌟 Features
 
 - **📸 Image Capture & Upload**: Take photos with your camera or upload existing images
